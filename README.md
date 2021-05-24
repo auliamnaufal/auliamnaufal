@@ -6,7 +6,7 @@
 
 Hey there 👋
 
-I’m Naufal, a student in Indonesia that passionate about programming 
+I’m Naufal, a student from Indonesia that's passionate about programming 
 
 Want to know more about me? [Check out my portfolio.]()
 
