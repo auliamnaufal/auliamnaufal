@@ -41,9 +41,9 @@ Want to know more about me? [Check out my portfolio.]()
 <a href="https://github.com/auliamnaufal">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=auliamnaufal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Naufal's GitHub Stats" />
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=auliamnaufal&" alt="auliamnaufal" /></p>
-
 <br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=auliamnaufal&" alt="auliamnaufal" /></p>
 
 <br>
 <br>
@@ -69,7 +69,6 @@ Want to know more about me? [Check out my portfolio.]()
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 
 
